@@ -1,9 +1,13 @@
 {
   "name": "dh-lib-react",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "",
   "scripts": {
     "rollup": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Deeved/dh-lib-react.git"
   },
   "keywords": [],
   "author": "",
